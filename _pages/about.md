@@ -11,12 +11,7 @@ redirect_from:
 
 学生
 ------
-2022级 饶洪淼 在读
-2022级 查南平 在读
+*2022级 饶洪淼 在读
+*2022级 查南平 在读
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
