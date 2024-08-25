@@ -15,5 +15,5 @@ author_profile: true
 
 Main teaching courses
 ----------------
-+ Discrete Mathmatics
++ Discrete Mathematics
 + Data mining
