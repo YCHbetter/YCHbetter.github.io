@@ -11,38 +11,34 @@ redirect_from:
 
 Education
 ======
-* Visiting Ph.D in Theoretical Physics, University of Western Australia, Australia, September 2017-- September 2018
-  Supervisor: Professor Jingbo Wang
-* Ph.D in Cryptography, Beijing University of Posts and Telecommunications, China, September 2014--June 2019
+* Visiting Ph.D in Theoretical Physics, University of Western Australia, Australia, September 2017 -- September 2018 Supervisor: Professor Jingbo Wang
+* Ph.D in Cryptography, Beijing University of Posts and Telecommunications, China, September 2014 --June 2019
   Supervisor: Professor Fei Gao
-* M.S. in Computer application technology, Fujian Normal University, China, September 2011--June 2014
-* B.S. In Information and computing science, Shenyang Agriculture University, China, September 2007--June 2011
+* M.S. in Computer application technology, Fujian Normal University, China, September 2011 --June 2014
+* B.S. In Information and computing science, Shenyang Agriculture University, China, September 2007 --June 2011
+
+教育背景
+======
+*联合培养博士，理论物理专业, 澳大利亚西澳大学, 2017年9月-- 2018年9月
+  指导老师: Jingbo Wang 教授
+* 博士，密码学专业, 北京邮电大学, 2014年9月 -- 2019年6月
+  指导老师: 高飞 教授
+* 硕士，计算机应用专业，福建师范大学， 2011年9月 -- 2014年6月
+* 本科，信息与计算科学，沈阳农业大学， 2007年9月 -- 2011年6月
 
 Work experience
 ======
-* September 2017- September 2018: Visiting
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2019- now: Lecture
+  * School of Computing and Artificial Intellegence, Jiangxi University of Finance and Economics, China
+  * Duties includes: Teaching and Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+工作经历
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019年8月- 现在: 讲师
+  * 江西财经大学，计算机与人工智能学院
+  * 工作内容: 教学和科研
+
+
 
 Publications
 ======
