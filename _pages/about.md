@@ -13,9 +13,4 @@ About me
 ========
 I am now a lecturer at Jiangxi University of Finance and Economics, master supervisor of Electronic information major, and my research interests inclue quantum data mining, quantum machine learning and quantum cryptography. In 2019, I received my PhD degree from Beijing University of Posts and Telecommunications and won the outstanding doctoral thesis award of the University. During the doctoral period, I was sponsered by the state government to visit the School of Physics of the University of Western Australia for one year (2017.09-2018.09). As of now, I have authored more than 20 papers published in  internationally renowned academic journals such as IEEE Transactions on Knowledge and Data Engineering, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, Science China-Physics Mechanics & Astronomy, and Physical Review A. I have servered as a reviewer for academic journals such as Physical Review Research, The Journal of Supercomputing, Journal of Cryptography (in Chinese), and Journal of Quantum Electronics (in Chinese). I recruit 1-2 postgraduate students every year, and candidates with good mathematical foundation and interested in quantum algorithms (especially for machine learning and data mining) are welcome to contact us via email at yuchaohua@jxufe.edu.cn!
 
-学生
-------
-+ 2022级 饶洪淼 在读
-+ 2022级 查南平 在读
-
 
