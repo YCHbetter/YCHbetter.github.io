@@ -1,4 +1,3 @@
-<!--
 ---
 layout: archive
 title: "CV"
@@ -9,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
--->
 
 教育背景
 ======
